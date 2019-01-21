@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System;
 
-namespace src.Models
+namespace dotnetcorestore.Models
 {
     public class Paiement
     { 
